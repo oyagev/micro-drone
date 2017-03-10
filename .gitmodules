@@ -1,0 +1,3 @@
+[submodule "hardware\\vendor\\ArduinoMicroKicad"]
+	path = hardware\\vendor\\ArduinoMicroKicad
+	url = git@github.com:oyagev/arduino_micro_shield.git
