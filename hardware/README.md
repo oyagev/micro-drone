@@ -18,4 +18,5 @@ MOSFET N-channel Id = 1A
 ## Voltage Regulator
 
 ## IMU
+* Read here: http://www.brokking.net/imu.html
 
