@@ -52,6 +52,7 @@ LIBS:stmicro-mcu
 LIBS:ti-ic
 LIBS:transistor
 LIBS:uln-ic
+LIBS:MicroDrone-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -144,4 +145,6 @@ Wire Wire Line
 Connection ~ 2100 6450
 Wire Wire Line
 	2100 7000 2100 6850
+Text Notes 11850 7100 0    60   ~ 0
+BOM\nMotors\nMotor Driver MOSFET\nDiodes - Motor Protection\nV-REG - 3.7->3.3\nATMega328 @8MHz\n
 $EndSCHEMATC
