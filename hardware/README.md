@@ -13,10 +13,12 @@ MOSFET N-channel Id = 1A
 
 
 ## MCU
+* GY-521: http://www.dx.com/p/gy-521-mpu6050-3-axis-acceleration-gyroscope-6dof-module-blue-154602
 
 
 ## Voltage Regulator
 
 ## IMU
+* MPU-6050
 * Read here: http://www.brokking.net/imu.html
 
